@@ -1,0 +1,6 @@
+customtkinter
+ctktable
+ctklistbox
+numpy<=1.26
+pandas
+pillow>=10
